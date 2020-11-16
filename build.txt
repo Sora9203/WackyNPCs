@@ -1,0 +1,4 @@
+author = Sora92
+version = 0.3
+displayName = Wacky NPCs
+homepage = https://forums.terraria.org/index.php?threads/wacky-npcs-mod.84702/
